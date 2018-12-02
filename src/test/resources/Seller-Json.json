@@ -1,0 +1,200 @@
+{
+  "name" : "Test Avalara-AGL-CZ",
+  "contact" : {
+    "fullName" : "Test Avalara-AGL-CZ Seller",
+    "attentionName" : "Test Avalara-AGL-CZ",
+    "companyName" : "Test Avalara-AGL-CZ Company",
+    "address" : {
+      "addressLine1" : "T Avalara-AGL-CZ addressLine1",
+      "addressLine2" : "T Avalara-AGL-CZ addressLine2",
+      "addressLine3" : "T Avalara-AGL-CZ addressLine3",
+      "city" : "T Avalara-AGL-CZ City",
+      "stateOrRegion" : "T Avalara-AGL-CZ state or region",
+      "countyOrDistrict" : "T Avalara-AGL-CZ",
+      "postalCode" : "T Avalara-AGL-CZ zip",
+      "countryCode" : "NL"
+    },
+    "countryCode" : "NL",
+    "phoneNumbers" : [ "777542019", "920154321" ],
+    "emailAddresses" : null
+  },
+  "businessType" : "Internet Retailers",
+  "registrations" : {
+    "jurisdictionISOCode" : {
+      "jurisdictionData" : [ {
+        "jurisdiction" : "CZ",
+        "vatNumber" : "CZ921749900",
+        "registrationDate" : "2018-11-02",
+        "visaRegistrationDate" : "2018-12-02",
+        "staggerGroup" : null,
+        "filingFrequencies" : {
+          "vatReturn" : 1,
+          "vatMonthlyPayment" : null,
+          "ecl" : 1,
+          "intrastatAcquisitions" : 1,
+          "intrastatDispatches" : 1
+        },
+        "taxOfficeDetails" : {
+          "name" : "TAXofficename"
+        },
+        "activityCode" : "ActivityCode",
+        "periodStart" : "",
+        "periodEnd" : "",
+        "isIntrastatDThresholdReached" : true,
+        "isIntrastatAThresholdReached" : true,
+        "isECLThresholdReached" : true,
+        "isVISACountries" : true,
+        "paymentInfoID" : 322,
+        "importRegime" : [ "EXEMPT", "REGULAR", "POSTPONED" ]
+      }, {
+        "jurisdiction" : "DE",
+        "vatNumber" : "DE123456789",
+        "registrationDate" : "2018-11-02",
+        "visaRegistrationDate" : "2018-12-02",
+        "staggerGroup" : null,
+        "filingFrequencies" : {
+          "vatReturn" : 1,
+          "vatMonthlyPayment" : null,
+          "ecl" : 1,
+          "intrastatAcquisitions" : 1,
+          "intrastatDispatches" : 1
+        },
+        "authorisedTaxOffice" : "DEAuthorizedTaxOffice",
+        "taxOfficeCode" : "TaxOfficeCode",
+        "eclRegistrationId" : "ESLRegID",
+        "eclTransmissionId" : "ESLTransmiID",
+        "periodStart" : "",
+        "periodEnd" : "",
+        "isIntrastatDThresholdReached" : true,
+        "isIntrastatAThresholdReached" : true,
+        "isECLThresholdReached" : true,
+        "isVISACountries" : true,
+        "taxId" : "DETaxID",
+        "paymentInfoID" : 20,
+        "login" : {
+          "id" : "DELoginID",
+          "password" : "DELoginPassword"
+        },
+        "importRegime" : [ "EXEMPT", "POSTPONED", "REGULAR" ]
+      }, {
+        "jurisdiction" : "ES",
+        "vatNumber" : "ESN12345678",
+        "registrationDate" : "2018-11-02",
+        "visaRegistrationDate" : "2018-12-02",
+        "staggerGroup" : null,
+        "filingFrequencies" : {
+          "vatReturn" : 1,
+          "vatMonthlyPayment" : null,
+          "ecl" : 1,
+          "intrastatAcquisitions" : 1,
+          "intrastatDispatches" : 1
+        },
+        "periodStart" : "",
+        "periodEnd" : "",
+        "isIntrastatDThresholdReached" : true,
+        "isIntrastatAThresholdReached" : true,
+        "isECLThresholdReached" : true,
+        "isVISACountries" : true,
+        "taxId" : "ESTaxID",
+        "paymentInfoID" : 109,
+        "login" : {
+          "id" : "ESTAXLoginID",
+          "password" : "ESTaxPassword"
+        },
+        "importRegime" : [ "EXEMPT", "POSTPONED", "REGULAR" ]
+      }, {
+        "jurisdiction" : "FR",
+        "vatNumber" : "FR12345678901",
+        "registrationDate" : "2018-11-02",
+        "visaRegistrationDate" : "2018-12-02",
+        "staggerGroup" : null,
+        "filingFrequencies" : {
+          "vatReturn" : 1,
+          "vatMonthlyPayment" : null,
+          "ecl" : 1,
+          "intrastatAcquisitions" : 1,
+          "intrastatDispatches" : 1
+        },
+        "taxOffice" : {
+          "name" : "TaxOfficeName",
+          "address" : {
+            "addressLine1" : "FRaddress1",
+            "addressLine2" : null,
+            "addressLine3" : null,
+            "city" : "Paris",
+            "stateOrRegion" : "Paris",
+            "countyOrDistrict" : "County",
+            "postalCode" : "75000",
+            "countryCode" : "FR"
+          }
+        },
+        "periodStart" : "",
+        "periodEnd" : "",
+        "isIntrastatDThresholdReached" : true,
+        "isIntrastatAThresholdReached" : true,
+        "isECLThresholdReached" : true,
+        "isVISACountries" : true,
+        "taxId" : "FranceTaxID",
+        "paymentInfoID" : 147,
+        "login" : {
+          "id" : "FRLoginID",
+          "password" : "FRPassword"
+        },
+        "importRegime" : [ "POSTPONED", "EXEMPT", "REGULAR" ]
+      }, {
+        "jurisdiction" : "GB",
+        "vatNumber" : "GB123456789",
+        "registrationDate" : "2018-11-02",
+        "visaRegistrationDate" : "2018-12-02",
+        "staggerGroup" : "Stagger1",
+        "filingFrequencies" : {
+          "vatReturn" : 1,
+          "vatMonthlyPayment" : null,
+          "ecl" : 1,
+          "intrastatAcquisitions" : 1,
+          "intrastatDispatches" : 1
+        },
+        "eclBranchNumber" : "eslBranch",
+        "periodStart" : "",
+        "periodEnd" : "",
+        "isIntrastatDThresholdReached" : true,
+        "isIntrastatAThresholdReached" : true,
+        "isECLThresholdReached" : true,
+        "isVISACountries" : true,
+        "paymentInfoID" : 6,
+        "login" : {
+          "id" : "GBUserID",
+          "password" : "GBUserPassword"
+        },
+        "importRegime" : [ "EXEMPT", "REGULAR", "POSTPONED" ]
+      }, {
+        "jurisdiction" : "AT",
+        "vatNumber" : "ATU11199009",
+        "registrationDate" : "2018-11-02",
+        "visaRegistrationDate" : "2018-12-02",
+        "staggerGroup" : null,
+        "filingFrequencies" : {
+          "vatReturn" : 1,
+          "vatMonthlyPayment" : null,
+          "ecl" : 1,
+          "intrastatAcquisitions" : 1,
+          "intrastatDispatches" : 1
+        },
+        "taxOffice" : {
+          "name" : "ATTaxOfficename"
+        },
+        "periodStart" : "",
+        "periodEnd" : "",
+        "isIntrastatDThresholdReached" : true,
+        "isIntrastatAThresholdReached" : true,
+        "isECLThresholdReached" : true,
+        "isVISACountries" : true,
+        "importRegime" : [ "POSTPONED", "EXEMPT", "REGULAR" ]
+      } ]
+    }
+  },
+  "createdDate" : "2018-07-18",
+  "isTestSeller" : false,
+  "amazonSellerId" : "Avalara-CompactData-AGL-CZ",
+  "amazonSellerKey" : "fakeAmzKey-Avalara-CompactData-AGL-CZ"
+}
