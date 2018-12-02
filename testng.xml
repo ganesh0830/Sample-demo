@@ -4,7 +4,8 @@
   <test name="Test">
     <classes>
       
-     <class name="com.project.testFramework.GetAllUsers" />
+     <class name="com.project.testFramework.WeatherTest" />
+     <class name="com.project.testFramework.JsonTest" />
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
